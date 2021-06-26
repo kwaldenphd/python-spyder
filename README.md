@@ -150,7 +150,7 @@ The author consulted the following texts when writing this tutorial:
 
 <blockquote>Q2: How is Spyder different than previous IDEs? What do you see as strengths/advantages? What do you see as possible challenges?</blockquote>
 
-<blockquote>OPTIONAL: Take one of your Python files or programs from Elements I and load it into Spyder. Explore how the program runs in a different IDE. In particular, explore Spyder's options to run portions or a selection of the larger program. How does this change the way you interact with the program?</blockquote>
+<blockquote>OPTIONAL: Take a <code>.py</code> lab notebook file and load it into Spyder. Explore how the program runs in a different IDE. In particular, explore Spyder's options to run portions or a selection of the larger program. How does this change the way you interact with the program?</blockquote>
 
 ## Installing packages in Spyder
 
@@ -307,3 +307,16 @@ logging.debug('End of program')
 
 # Lab notebook questions
 
+Q1: Describe your experience installing Anaconda using the available/provided documentation. What did you expect to happen? What challenges did you face? How did you solve them?
+
+Q2: How is Spyder different than previous IDEs? What do you see as strengths/advantages? What do you see as possible challenges?
+
+Q3: What type of error does this program return (syntax, runtime, semantic) and why? How would we go about modifying the program to address this error?
+
+Q4: What happens when we run this program? What kinds of log messages do we get, and what information do they give us?
+
+Q5: Is this program doing what we expect? Where would you go next with debugging or addressing the error?
+
+Q6: What are your thoughts on this approach to identifying what's happening in your program? What seems appealing? What seems challenging? When or how could this approach be useful?
+
+Q7: Compare your experience working in different Python IDEs. What seems appealing about each? What seems challenging? Based on this experience, what is your preference, or are there situations in which you'd prefer one over the other?
