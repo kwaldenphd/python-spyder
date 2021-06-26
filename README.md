@@ -70,7 +70,7 @@ The author consulted the following texts when writing this tutorial:
 
 # Installing Anaconda
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_1.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true" /></a></p>
 
 11. Windows/PC instructions:
 - Anaconda Documentation, ["Installing on Windows"](https://docs.anaconda.com/anaconda/install/windows/) *Anaconda* (2020).
@@ -100,13 +100,13 @@ The author consulted the following texts when writing this tutorial:
 
 16. These robust Python features in Spyder will be incredibly useful as we start to do more work with datasets, visualizations (plots), and debugging in more complex programming environments.
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_1.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_2.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2.png?raw=true" /></a></p>
 
 17. Open the Anaconda navigator and select the option to launch Spyder.
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_2a.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_2a.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2a.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2a.png?raw=true" /></a></p>
 
 18. Spyder has three default panes that show up when you launch the program.
 
@@ -136,7 +136,7 @@ The author consulted the following texts when writing this tutorial:
 
 29. You can set a working directory, which is where Spyder will look for external files you are wanting to access from within a Python program. The working directory is also where Python will save `.py` files you build.
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_2c.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_2c.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2c.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2c.png?raw=true" /></a></p>
 
 30. Click on the folder icon in the top-right hand corner of Spyder (next to the arrow icon) to set a working directory. It doe--where you save `.py` files and other files (think data files) you might be wanting to access as part of a Python program.
 
@@ -217,9 +217,9 @@ The author consulted the following texts when writing this tutorial:
 - Step out (lets you step out of a function if you used step in and want to 'step out' of the function)
 - Stop (stops debugging and terminates the program)
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_3.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_3.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_3.png?raw=true" /></a></p>
 
-<p align="center"><a href="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-refresh/blob/main/figures/Figure_4.png?raw=true" /></a></p>
+<p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_4.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_4.png?raw=true" /></a></p>
 
 59. Let's use this approach and Spyder functionality to debug a number adding program..
 
