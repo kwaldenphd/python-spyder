@@ -98,8 +98,6 @@ The author consulted the following texts when writing this tutorial:
 - Alex P. Miller, ["Data Science on a Chromebook: How to run Jupyter, Python, and R locally in ChromeOS"](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/) *personal blog* (6 March 2019).
 - Noebrian, ["Installing Anaconda on a Chromebook"](https://chromebook.home.blog/2019/01/20/installing-anaconda-on-a-chromebook-no-dev-beta-or-crouton-needed/) *ChromeBooks* (20 January 2019).
 
-<blockquote>Q1: Describe your experience installing Anaconda using the available/provided documentation. What did you expect to happen? What challenges did you face? How did you solve them?</blockquote>
-
 # Python in Spyder
 
 14. What is Spyder? "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package" ([Spyder documentation](https://www.spyder-ide.org/)).
@@ -156,11 +154,13 @@ The author consulted the following texts when writing this tutorial:
 
 31. Now, files don't have to be in your current working directory for you to access them in Python. But you'll need to provide the full file path (i.e. location information or directory information for where that file is located on your computer).
 
-32. Go ahead and create an `EoC_II` folder and set that folder as your working directory in Spyder. It might also be a good idea to start creating lab-specific sub-folders within your `EoC_II` parent folder. 
+32. Go ahead and create an `EoC_II` folder and set that folder as your working directory in Spyder. 
 
-33. This will help with organization as we move through labs and work with a variety of sample files and datasets.
+33. It might also be a good idea to start creating lab-specific sub-folders within your `EoC_II` parent folder. 
 
-34. Work through the ["First Steps with Spyder" resources](https://docs.spyder-ide.org/current/first-steps-with-spyder.html) provided by Spyder. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder.
+34. This will help with organization as we move through labs and work with a variety of sample files and datasets.
+
+<blockquote>Q1: Work through the ["First Steps with Spyder" resources](https://docs.spyder-ide.org/current/first-steps-with-spyder.html) provided by Spyder. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder. Describe your experience getting  started with Spyder using  these materials/resources.</blockquote>
 
 <blockquote>Q2: How is Spyder different than previous IDEs? What do you see as strengths/advantages? What do you see as possible challenges?</blockquote>
 
@@ -355,7 +355,7 @@ Lab notebook templates:
 - [`.py` template for just Q8](https://drive.google.com/file/d/1UvqINgtcJL1-UHX6pT0KlvxjSGiKySzT/view?usp=sharing)
 - [Jupyter Notebook (`.ipynb`) template for Q1-Q8](https://colab.research.google.com/drive/1oLcEdU1z4TfGaspRfDh_r4tRTQ5bwW6r?usp=sharing)
 
-Q1: Describe your experience installing Anaconda using the available/provided documentation. What did you expect to happen? What challenges did you face? How did you solve them?
+Q1: Work through the <a href="https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html">First Steps with Spyder"</a>resources provided in the Spyder documentation. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder. Describe your experience getting  started with Spyder using  these materials/resources.
 
 Q2: How is Spyder different than previous IDEs? What do you see as strengths/advantages? What do you see as possible challenges?
 
