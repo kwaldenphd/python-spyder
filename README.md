@@ -40,8 +40,6 @@ The author consulted the following texts when writing this tutorial:
 - [Python refresh](#python-refresh)
 - [Lab notebook questions](#lab-notebook-questions)
 
-[Lab procedure as a Jupyter Notebook](https://colab.research.google.com/drive/10QmGPFhFGm84IEozY60fzySftcdTPV3m?usp=sharing)
-
 # Lab notebook templates
 
 [Google Doc template for Q1-Q7](https://docs.google.com/document/d/1uzSvhUaZngfGB9t-HCLK3YWNfMbyNPL9plQyh4Jm4zg/copy)
@@ -80,29 +78,33 @@ The author consulted the following texts when writing this tutorial:
 - RStudio
 - Visual Code Studio
 
-10. We'll be using the Jupyter Notebook and Spyder components of Anaconda.
+10. In this lab, we'll be focusing on the Spyder IDE.
 
 # Installing Anaconda
 
 <p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true" /></a></p>
 
-11. Windows/PC instructions:
+Windows/PC instructions:
 - Anaconda Documentation, ["Installing on Windows"](https://docs.anaconda.com/anaconda/install/windows/) *Anaconda* (2020).
 - ProgrammingKnowledge, ["Install Anaconda Python, Jupyter Notebook and Spyder on Windows 10"](https://youtu.be/5mDYijMfSzs) *YouTube video* (4 September 2018).
 
-12. Mac OS instructions:
+Mac OS instructions:
 - Anaconda Documentation, ["Installing on macOS"](https://docs.anaconda.com/anaconda/install/mac-os/) *Anaconda* (2020).
 - Understanding Data, ["Easily Install Anaconda Python Distribution On Mac OS X"](https://youtu.be/V6ZAv7hBH6Y) *YouTube video* (16 October 2019).
 
-13. Chromebook instructions:
+Chromebook instructions:
 - Alex P. Miller, ["Data Science on a Chromebook: How to run Jupyter, Python, and R locally in ChromeOS"](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/) *personal blog* (6 March 2019).
 - Noebrian, ["Installing Anaconda on a Chromebook"](https://chromebook.home.blog/2019/01/20/installing-anaconda-on-a-chromebook-no-dev-beta-or-crouton-needed/) *ChromeBooks* (20 January 2019).
 
+To install Spyder as a stand-alone program: https://www.spyder-ide.org/
+
 # Python in Spyder
 
-14. What is Spyder? "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package" ([Spyder documentation](https://www.spyder-ide.org/)).
+11. What is Spyder? 
 
-15. Spyder's core components include:
+12. "Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package" ([Spyder documentation](https://www.spyder-ide.org/)).
+
+13. Spyder's core components include:
 - Editor
 - IPython console
 - Variable explorer
@@ -110,19 +112,23 @@ The author consulted the following texts when writing this tutorial:
 - Debugger
 - Help
 
-16. These robust Python features in Spyder will be incredibly useful as we start to do more work with datasets, visualizations (plots), and debugging in more complex programming environments.
+14. These robust Python features in Spyder will be incredibly useful as we start to do more work with datasets, visualizations (plots), and debugging in more complex programming environments.
 
 <p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_1.png?raw=true" /></a></p>
 
 <p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2.png?raw=true" /></a></p>
 
-17. Open the Anaconda navigator and select the option to launch Spyder.
+15. Open the Anaconda navigator and select the option to launch Spyder.
 
 <p align="center"><a href="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2a.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/python-spyder/blob/main/images/Figure_2a.png?raw=true" /></a></p>
 
-18. Spyder has three default panes that show up when you launch the program.
+16. Spyder has three default panes that show up when you launch the program.
 
-19. Your `.py` file shows up on the left-hand side of the program window. This is where you will write Python code. You can have multiple `.py` files open in Spyder and navigate between the tabs. 
+17. Your `.py` file shows up on the left-hand side of the program window. 
+
+18. This is where you will write Python code. 
+
+19. You can have multiple `.py` files open in Spyder and navigate between the tabs. 
 
 20. The top-right pane has four default options:
 - Variable explorer, which lets you see named variables in your program
@@ -160,7 +166,7 @@ The author consulted the following texts when writing this tutorial:
 
 34. This will help with organization as we move through labs and work with a variety of sample files and datasets.
 
-<blockquote>Q1: Work through the ["First Steps with Spyder" resources](https://docs.spyder-ide.org/current/first-steps-with-spyder.html) provided by Spyder. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder. Describe your experience getting  started with Spyder using  these materials/resources.</blockquote>
+<blockquote>Q1: Work through the <a href="https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html">"First Steps with Spyder"</a>resources provided in the Spyder documentation. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder. Describe your experience getting  started with Spyder using  these materials/resources.</blockquote>
 
 <blockquote>Q2: How is Spyder different than previous IDEs? What do you see as strengths/advantages? What do you see as possible challenges?</blockquote>
 
@@ -355,7 +361,7 @@ Lab notebook templates:
 - [`.py` template for just Q8](https://drive.google.com/file/d/1UvqINgtcJL1-UHX6pT0KlvxjSGiKySzT/view?usp=sharing)
 - [Jupyter Notebook (`.ipynb`) template for Q1-Q8](https://colab.research.google.com/drive/1oLcEdU1z4TfGaspRfDh_r4tRTQ5bwW6r?usp=sharing)
 
-Q1: Work through the <a href="https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html">First Steps with Spyder"</a>resources provided in the Spyder documentation. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder. Describe your experience getting  started with Spyder using  these materials/resources.
+Q1: Work through the <a href="https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html">"First Steps with Spyder"</a>resources provided in the Spyder documentation. That includes two 3.5 minute videos that introduce you to the basics of the Spyder IDE and how to get started with Python in Spyder. Describe your experience getting  started with Spyder using  these materials/resources.
 
 Q2: How is Spyder different than previous IDEs? What do you see as strengths/advantages? What do you see as possible challenges?
 
