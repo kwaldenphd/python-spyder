@@ -40,6 +40,8 @@ The author consulted the following texts when writing this tutorial:
 - [Python refresh](#python-refresh)
 - [Lab notebook questions](#lab-notebook-questions)
 
+[Link to lab procedure as a Jupyter Notebook](https://colab.research.google.com/drive/10QmGPFhFGm84IEozY60fzySftcdTPV3m?usp=sharing)
+
 # Lab notebook templates
 
 [Google Doc template for Q1-Q7](https://docs.google.com/document/d/1uzSvhUaZngfGB9t-HCLK3YWNfMbyNPL9plQyh4Jm4zg/copy)
